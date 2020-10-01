@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# The Feed dot Dev
+
+The Feed compiles a daily list of articles, blog posts, and videos for web developers. 
+
 ## Available Scripts
 
 In the project directory, you can run:
